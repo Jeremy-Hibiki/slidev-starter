@@ -1,0 +1,7 @@
+{
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "cSpell.words": ["Attributify", "unocss"],
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}

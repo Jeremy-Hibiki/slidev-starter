@@ -1,0 +1,21 @@
+{
+  "name": "slidev-starter",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "export:c": "slidev --export -c",
+    "format": "slidev format"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.3",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "^0.21.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
+  }
+}
